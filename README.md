@@ -1,7 +1,7 @@
 # Machine Learning project
 [CNN Project Notebook](https://github.com/QiangWANGWQ/Machine_Learning_Project/blob/master/cactus_ml.ipynb)
 
-**Created by:** Qiang Wang, Xinrong Chen, Sherly Zhang
+**Group 16:** Qiang Wang, Xinrong Chen, Sherly Zhang
 
 ## Aerial Cactus Identification
 
