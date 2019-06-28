@@ -1,5 +1,5 @@
 # Machine Learning project
-[Machine Learning Project Notebook](https://github.com/QiangWANGWQ/Machine_Learning_Project/blob/master/cactus_ml.ipynb)
+[CNN Project Notebook](https://github.com/QiangWANGWQ/Machine_Learning_Project/blob/master/cactus_ml.ipynb)
 
 ## Aerial Cactus Identification
 
