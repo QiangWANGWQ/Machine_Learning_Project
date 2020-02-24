@@ -1,7 +1,5 @@
-# Machine Learning project
+# Convolutional Neural Network
 [CNN Project Notebook](https://github.com/QiangWANGWQ/Machine_Learning_Project/blob/master/cactus_ml.ipynb)
-
-**Group 16:** Qiang Wang, Xinrong Chen, Sherly Zhang
 
 ## Aerial Cactus Identification
 
